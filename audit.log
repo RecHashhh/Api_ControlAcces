@@ -1,0 +1,15 @@
+[2024-09-25 15:00:00] [AUDIT] HTTP Exception: Unauthorized - The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+[2024-09-25 15:01:11] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:06:52] [AUDIT] HTTP Exception: Unauthorized - The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.
+[2024-09-25 15:07:28] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:08:04] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:08:13] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:08:57] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:08:57] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:09:28] [AUDIT] Internal Server Error: Object of type set is not JSON serializable
+[2024-09-25 15:10:02] [AUDIT] HTTP Exception: Not Found - The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2024-09-25 15:10:07] [AUDIT] HTTP Exception: Not Found - The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2024-09-25 15:10:14] [AUDIT] HTTP Exception: Method Not Allowed - The method is not allowed for the requested URL.
+[2024-09-25 15:10:47] [AUDIT] HTTP Exception: Not Found - The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2024-09-25 15:55:50] [AUDIT] HTTP Exception: Method Not Allowed - The method is not allowed for the requested URL.
+[2024-09-25 16:00:45] [AUDIT] HTTP Exception: Unauthorized - The server could not verify that you are authorized to access the URL requested. You either supplied the wrong credentials (e.g. a bad password), or your browser doesn't understand how to supply the credentials required.

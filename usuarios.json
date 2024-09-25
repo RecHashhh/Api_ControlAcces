@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Juan Perez",
+        "direccion": "Casa1",
+        "telefono": "123456789",
+        "email": "juan.perez@example.com",
+        "contrasena": "mi_contrasena_secreta",
+        "roles": "Residente"
+    },
+    {
+        "nombre": "Maria Lopez",
+        "direccion": "Casa17",
+        "telefono": "987654321",
+        "email": "maria.lopez@example.com",
+        "contrasena": "otra_contrasena_segura",
+        "roles": "Administrador"
+    },
+    {
+        "nombre": "Carlos Garcia",
+        "direccion": "Garita1",
+        "telefono": "456789123",
+        "email": "carlos.garcia@example.com",
+        "contrasena": "carlos_pass_2024",
+        "roles": "GuardiaSeg"
+    },
+    {
+        "nombre": "Ana Torres",
+        "direccion": "Boulevard de los Sueños 1010",
+        "telefono": "321654987",
+        "email": "ana.torres@example.com",
+        "contrasena": "ana_torres_1234",
+        "roles": "Visita"
+    },
+    {
+        "nombre": "Luis Martinez",
+        "direccion": "Casa2",
+        "telefono": "654321789",
+        "email": "luis.martinez@example.com",
+        "contrasena": "luis_paz_5678",
+        "roles": "Residente"
+    },
+    {
+        "nombre": "Sofia Ramirez",
+        "direccion": "Casa3",
+        "telefono": "789456123",
+        "email": "sofia.ramirez@example.com",
+        "contrasena": "!Sofia2024!",
+        "roles": "Residente"
+    },
+    {
+        "nombre": "Fernando Jimenez",
+        "direccion": "Avenida Libertad 5050",
+        "telefono": "+34 123 456 7890",
+        "email": "fernando.jimenez@example.com",
+        "contrasena": "#F3rn4nd0!",
+        "roles": "Visita"
+    }
+]

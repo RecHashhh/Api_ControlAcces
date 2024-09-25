@@ -1,0 +1,60 @@
+[2024-09-25 14:50:42] INFO _internal.py:97 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7002
+ * Running on http://192.168.0.10:7002
+[2024-09-25 14:50:42] INFO _internal.py:97 - [33mPress CTRL+C to quit[0m
+[2024-09-25 14:50:42] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 14:50:44] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 14:50:44] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 14:51:47] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 14:51:48] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 14:51:51] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 14:51:51] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 14:53:13] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 14:53:13] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 14:53:15] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 14:53:15] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 14:53:52] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 14:53:52] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 14:53:54] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 14:53:54] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 14:54:27] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 14:54:27] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 14:54:29] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 14:54:29] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 15:00:00] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:00:00] "[31m[1mPOST /usuarios/cargar HTTP/1.1[0m" 401 -
+[2024-09-25 15:01:11] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:01:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-09-25 15:06:12] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 15:06:13] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 15:06:15] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 15:06:15] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 15:06:29] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:06:29] "[35m[1mPOST /usuarios/cargar HTTP/1.1[0m" 201 -
+[2024-09-25 15:06:52] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:06:52] "[31m[1mGET /usuarios HTTP/1.1[0m" 401 -
+[2024-09-25 15:07:09] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 15:07:09] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 15:07:12] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 15:07:12] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 15:07:28] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:07:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-09-25 15:08:04] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:08:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-09-25 15:08:13] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:08:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-09-25 15:08:37] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 15:08:37] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 15:08:43] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 15:08:43] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 15:08:57] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:08:57] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+[2024-09-25 15:08:57] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:08:57] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+[2024-09-25 15:09:28] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:09:28] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+[2024-09-25 15:10:02] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:10:02] "[33mGET /login HTTP/1.1[0m" 404 -
+[2024-09-25 15:10:07] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:10:07] "[33mGET /login/ HTTP/1.1[0m" 404 -
+[2024-09-25 15:10:14] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:10:14] "[31m[1mGET /login/admin HTTP/1.1[0m" 405 -
+[2024-09-25 15:10:47] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:10:47] "[33mPOST /login/ HTTP/1.1[0m" 404 -
+[2024-09-25 15:55:50] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 15:55:50] "[31m[1mGET /login/admin HTTP/1.1[0m" 405 -
+[2024-09-25 16:00:45] INFO _internal.py:97 - 127.0.0.1 - - [25/Sep/2024 16:00:45] "[31m[1mGET /usuarios HTTP/1.1[0m" 401 -
+[2024-09-25 16:01:18] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 16:01:19] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 16:01:23] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 16:01:23] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
+[2024-09-25 16:06:39] INFO _internal.py:97 -  * Detected change in 'c:\\Users\\pcsec\\Desktop\\SEGURIDAD DE SOFTWARE\\TareaApi\\Api\\apidbwill\\product-service\\src\\app.py', reloading
+[2024-09-25 16:06:40] INFO _internal.py:97 -  * Restarting with stat
+[2024-09-25 16:06:43] WARNING _internal.py:97 -  * Debugger is active!
+[2024-09-25 16:06:43] INFO _internal.py:97 -  * Debugger PIN: 133-375-859
